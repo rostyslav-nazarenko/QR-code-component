@@ -92,19 +92,3 @@ I went through tons of information and to list all would take whole day.
 ## Author
 
 - Frontend Mentor - [Rostyslav Nazarenko](https://www.frontendmentor.io/profile/rostyslav-nazarenko)
-
-
-
-<style>
-.markdown-body img {
-  border-radius: 10px;
-}
-
-.markdown-body h2 {
-  margin: 3rem 0 1rem;
-}
-
-.markdown-body h3 {
-  margin: 1rem 0;
-}
-</style>
