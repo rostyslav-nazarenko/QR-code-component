@@ -27,6 +27,12 @@ body {
   background-color: var(--color-light-gray);
 }
 
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .qr-card-wrapper {
   max-width: 32.5rem;
   border-radius: 2rem;
