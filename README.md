@@ -15,8 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
----
-
 ## Overview
 
 ### Screenshot
@@ -27,8 +25,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Github](https://github.com/rostyslav-nazarenko/qr-code-component-main)
 - Live Site URL: [Github Pages](https://rostyslav-nazarenko.github.io/qr-code-component-main/)
-
----
 
 ## My process
 
@@ -93,8 +89,6 @@ I went through tons of information and to list all would take whole day.
   - [Markdown Turorial](https://www.markdowntutorial.com/)
   - [Introduction to Markdown in Visual Studio Code (with Markdown worksheet!)](https://www.youtube.com/watch?v=pTCROLZLhDM)
 
----
-
 ## Author
 
 - Frontend Mentor - [Rostyslav Nazarenko](https://www.frontendmentor.io/profile/rostyslav-nazarenko)
@@ -107,7 +101,7 @@ img {
 }
 
 h2 {
-  margin: 2rem 0 1rem;
+  margin: 3rem 0 1rem;
 }
 
 h3 {
