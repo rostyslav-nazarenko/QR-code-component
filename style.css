@@ -1,3 +1,10 @@
+:root {
+  --color-white: #fff;
+  --color-light-gray: #d6e2f0;
+  --color-grayish-blue: #7b879d;
+  --color-dark-blue: #1f3251;
+}
+
 html {
   box-sizing: border-box;
   font-size: 62.5%;
@@ -12,11 +19,6 @@ html {
 *::before,
 *::after {
   box-sizing: inherit;
-
-  --color-white: #fff;
-  --color-light-gray: #d6e2f0;
-  --color-grayish-blue: #7b879d;
-  --color-dark-blue: #1f3251;
 }
 
 body {
