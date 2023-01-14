@@ -96,15 +96,15 @@ I went through tons of information and to list all would take whole day.
 
 
 <style>
-img {
+.markdown-body img {
   border-radius: 10px;
 }
 
-h2 {
+.markdown-body h2 {
   margin: 3rem 0 1rem;
 }
 
-h3 {
+.markdown-body h3 {
   margin: 1rem 0;
 }
 </style>
