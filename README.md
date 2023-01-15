@@ -14,6 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -89,6 +90,14 @@ I went through tons of information and to list all would take whole day.
   - [Markdown Turorial](https://www.markdowntutorial.com/)
   - [Introduction to Markdown in Visual Studio Code (with Markdown worksheet!)](https://www.youtube.com/watch?v=pTCROLZLhDM)
 
+- [Melvin Aguilar](https://www.frontendmentor.io/profile/MelvinAguilar)'s feedback
+  - [Alternative Text](https://webaim.org/techniques/alttext/)
+  - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+
 ## Author
 
 - Frontend Mentor - [Rostyslav Nazarenko](https://www.frontendmentor.io/profile/rostyslav-nazarenko)
+
+## Acknowledgments
+
+- [Melvin Aguilar](https://www.frontendmentor.io/profile/MelvinAguilar) - gave suggestions on accessibility, such as correct use of `alt` attribute and **warned** about setting `html` to `font-size: 62.5%`, which is not a good trick to use. Provided resources listed above.
